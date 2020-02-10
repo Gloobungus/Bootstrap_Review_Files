@@ -258,12 +258,14 @@ hr.socket {
     max-width: 77%;
 }
 
-.custimg-1-text {
-}
-
 .custimg-2-text {
     padding-left: 4rem;
 }
+
+.custimg-3 {
+    padding-top: 4rem;
+}
+
 
 /*Custom Stuff End*/
 
