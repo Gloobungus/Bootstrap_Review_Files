@@ -253,16 +253,12 @@ hr.socket {
     background-color: #030f14;
 }
 
-.custimg-2 {
-    padding-left: 4rem;
-    max-width: 77%;
-}
-
-.custimg-2-text {
-    padding-left: 4rem;
+.custimg-1 {
+    max-width:77%;
 }
 
 .custimg-3 {
+    max-width: 77%;
     padding-top: 4rem;
 }
 
